@@ -1,6 +1,6 @@
 # Hey, what's up!👋
 
-I'm DarkeyOfficial, a Business & IT student in Germany
+I'm DarkeyOfficial, a Business & IT student in Germany.
 
 I like solving coding problems, developing games and automating/optimizing daily business workflows.
 
