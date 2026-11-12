@@ -1,3 +1,6 @@
+# done with python on Visual Studio Code
+# a little project for fun and practicing
+
 import random
 
 MAX_LINES = 3
