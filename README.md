@@ -6,6 +6,11 @@ I like solving coding problems, developing games and automating/optimizing daily
 
 ---
 
+### 🗂️ My Projects:
+- 🎰 [Text Slot Machine](https://github.com/DarkeyOfficial/Text-Slot-Machine) - A terminal-based Text Slot Machine game written entirely in Python
+
+---
+
 ### 🌱 What am I currently working on?
 
 * 🧠 **LeetCode** – Solving daily LeetCodes to improve my Software Engineering skills.
